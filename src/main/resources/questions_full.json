@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "questionText": "A number 500 is increased by 20% and then decreased by 20%. What is the final number?",
+    "optionA": "460",
+    "optionB": "520",
+    "optionC": "500",
+    "optionD": "480",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 2,
+    "questionText": "If 3 pencils and 2 pens cost ₹48, and 2 pencils and 3 pens cost ₹52, the cost of one pencil is:",
+    "optionA": "₹7",
+    "optionB": "₹10",
+    "optionC": "₹8",
+    "optionD": "₹6",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 3,
+    "questionText": "A train covers 360 km total in 4 hours. It travels the first half (180 km) at 60 km/h. What is its speed in the second half?",
+    "optionA": "180 km/h",
+    "optionB": "90 km/h",
+    "optionC": "120 km/h",
+    "optionD": "60 km/h",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4,
+    "questionText": "A sum amounts to ₹12,000 in 2 years at simple interest of 10% p.a. What was the principal?",
+    "optionA": "₹10,500",
+    "optionB": "₹10,000",
+    "optionC": "₹9,000",
+    "optionD": "₹11,000",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "questionText": "Average age of 5 family members is 25 years. The youngest is 15. Average age of the other 4 members is:",
+    "optionA": "27.5 yrs",
+    "optionB": "28 yrs",
+    "optionC": "25.5 yrs",
+    "optionD": "26.5 yrs",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 6,
+    "questionText": "Two numbers are in the ratio 5:7 and their sum is 144. The numbers are:",
+    "optionA": "55 & 89",
+    "optionB": "72 & 72",
+    "optionC": "50 & 94",
+    "optionD": "60 & 84",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 7,
+    "questionText": "A man spends 40% of income on rent, 30% on food and saves the rest ₹12,000. His monthly income is:",
+    "optionA": "₹40,000",
+    "optionB": "₹45,000",
+    "optionC": "₹30,000",
+    "optionD": "₹50,000",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 8,
+    "questionText": "5 men complete a job in 12 days. How many days will 8 men take (same work, equal efficiency)?",
+    "optionA": "7.5 days",
+    "optionB": "8 days",
+    "optionC": "6 days",
+    "optionD": "7 days",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 9,
+    "questionText": "Price of a commodity increases by 25%. By what percent should consumption be reduced to keep expenditure same?",
+    "optionA": "20%",
+    "optionB": "15%",
+    "optionC": "18%",
+    "optionD": "22%",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 10,
+    "questionText": "If 2x−3=11, value of x² is:",
+    "optionA": "64",
+    "optionB": "49",
+    "optionC": "36",
+    "optionD": "25",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 11,
+    "questionText": "Find the next number: 5, 9, 17, 33, ?",
+    "optionA": "65",
+    "optionB": "57",
+    "optionC": "63",
+    "optionD": "67",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 12,
+    "questionText": "If CAT = 24 and DOG = 26 (letter positions added), then FISH = ?",
+    "optionA": "46",
+    "optionB": "40",
+    "optionC": "44",
+    "optionD": "42",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 13,
+    "questionText": "Arrange ascending: 7/8, 3/4, 11/12, 5/6",
+    "optionA": "3/4, 5/6, 7/8, 11/12",
+    "optionB": "5/6, 3/4, 7/8, 11/12",
+    "optionC": "3/4, 7/8, 5/6, 11/12",
+    "optionD": "3/4, 5/6, 7/8, 11/12",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 14,
+    "questionText": "Which of these is not a perfect square?",
+    "optionA": "169",
+    "optionB": "225",
+    "optionC": "289",
+    "optionD": "290",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 15,
+    "questionText": "Next term for 1, 4, 9, 16, 25, ? is:",
+    "optionA": "34",
+    "optionB": "36",
+    "optionC": "30",
+    "optionD": "40",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 16,
+    "questionText": "If A=2, B=4, C=6 (i.e., letter value = 2 × position), then DOG = ?",
+    "optionA": "46",
+    "optionB": "28",
+    "optionC": "52",
+    "optionD": "44",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 17,
+    "questionText": "In a row of 25 boys, A is 8th from the left and B is 12th from the right. How many boys are between A and B?",
+    "optionA": "6",
+    "optionB": "5",
+    "optionC": "4",
+    "optionD": "7",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 18,
+    "questionText": "If 2 → 6, 3 → 12, 4 → 20 (pattern n(n+1)), then 5 → ?",
+    "optionA": "40",
+    "optionB": "24",
+    "optionC": "36",
+    "optionD": "30",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 19,
+    "questionText": "A clock shows 4:30. What is the angle between hour and minute hands?",
+    "optionA": "90°",
+    "optionB": "30°",
+    "optionC": "60°",
+    "optionD": "45°",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 20,
+    "questionText": "If a code maps letters by their alphabet positions, what is the value of the word SUM? (S=19, U=21, M=13)",
+    "optionA": "55",
+    "optionB": "53",
+    "optionC": "52",
+    "optionD": "54",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 21,
+    "questionText": "A shopkeeper marks a product 20% above cost and gives 10% discount on marked price. Profit % is:",
+    "optionA": "12%",
+    "optionB": "6%",
+    "optionC": "8%",
+    "optionD": "10%",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 22,
+    "questionText": "A tank can be filled by pipe A in 6 hours and emptied by pipe B in 8 hours. Time to fill when both are open:",
+    "optionA": "12 hrs",
+    "optionB": "24 hrs",
+    "optionC": "20 hrs",
+    "optionD": "16 hrs",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 23,
+    "questionText": "A sum doubles itself in 8 years at simple interest. Find annual rate of interest.",
+    "optionA": "14%",
+    "optionB": "15%",
+    "optionC": "10%",
+    "optionD": "12.5%",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 24,
+    "questionText": "Person walks at 4 km/h and runs at 8 km/h. Total distance 24 km covered in 4 hours. How much distance he walked?",
+    "optionA": "12 km",
+    "optionB": "8 km",
+    "optionC": "6 km",
+    "optionD": "10 km",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 25,
+    "questionText": "A two-digit number minus the number with digits reversed equals 36. The difference between its digits is:",
+    "optionA": "3",
+    "optionB": "2",
+    "optionC": "6",
+    "optionD": "4",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 26,
+    "questionText": "Which SQL clause is used to filter groups after the GROUP BY operation?",
+    "optionA": "ORDER BY",
+    "optionB": "WHERE",
+    "optionC": "HAVING",
+    "optionD": "LIMIT",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 27,
+    "questionText": "What will the following query return? SELECT COUNT(DISTINCT department) FROM employees;",
+    "optionA": "Count of unique departments",
+    "optionB": "All distinct department names",
+    "optionC": "Error",
+    "optionD": "Count of all rows",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 28,
+    "questionText": "Which statement will delete only the data inside a table, not the table itself?",
+    "optionA": "DROP TABLE",
+    "optionB": "TRUNCATE TABLE",
+    "optionC": "DELETE TABLE",
+    "optionD": "REMOVE TABLE",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 29,
+    "questionText": "In SQL, NULL is:",
+    "optionA": "Equal to 0",
+    "optionB": "Unknown/No value",
+    "optionC": "Blank space",
+    "optionD": "Zero-length string",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 30,
+    "questionText": "Which JOIN returns all rows from both tables, with NULL where there’s no match?",
+    "optionA": "FULL OUTER JOIN",
+    "optionB": "INNER JOIN",
+    "optionC": "LEFT JOIN",
+    "optionD": "RIGHT JOIN",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 31,
+    "questionText": "Which function is used to get the current system date in MySQL?",
+    "optionA": "CURRENT_DATE()",
+    "optionB": "GETDATE()",
+    "optionC": "SYSDATE()",
+    "optionD": "NOW()",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 32,
+    "questionText": "What is the output of: SELECT 15/2; in MySQL (default settings)?",
+    "optionA": "7.5",
+    "optionB": "Error",
+    "optionC": "8",
+    "optionD": "7",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 33,
+    "questionText": "Which of these is a valid way to rename a column in SQL Server?",
+    "optionA": "ALTER TABLE RENAME COLUMN old_name TO new_name;",
+    "optionB": "EXEC sp_rename 'table.old_name', 'new_name', 'COLUMN';",
+    "optionC": "RENAME old_name TO new_name;",
+    "optionD": "UPDATE COLUMN old_name TO new_name;",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 34,
+    "questionText": "The result of WHERE salary BETWEEN 5000 AND 10000 includes:",
+    "optionA": "Values from 5000 to 10000 inclusive",
+    "optionB": "Values less than 5000",
+    "optionC": "NULL values only",
+    "optionD": "Values strictly between 5000 and 10000",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 35,
+    "questionText": "Which aggregate function ignores NULL values?",
+    "optionA": "SUM()",
+    "optionB": "COUNT(*)",
+    "optionC": "AVG()",
+    "optionD": "MAX()",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 36,
+    "questionText": "To find employees who have no department assigned:",
+    "optionA": "WHERE department = ''",
+    "optionB": "WHERE department = NULL",
+    "optionC": "WHERE department != NULL",
+    "optionD": "WHERE department IS NULL",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 37,
+    "questionText": "Which constraint ensures that a column cannot have duplicate values?",
+    "optionA": "DEFAULT",
+    "optionB": "UNIQUE",
+    "optionC": "PRIMARY KEY only",
+    "optionD": "FOREIGN KEY",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 38,
+    "questionText": "Which of these clauses is evaluated first in SQL query execution order?",
+    "optionA": "FROM",
+    "optionB": "WHERE",
+    "optionC": "ORDER BY",
+    "optionD": "SELECT",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 39,
+    "questionText": "In C++, which type of inheritance allows a class to inherit from more than one base class?",
+    "optionA": "Hierarchical",
+    "optionB": "Multilevel",
+    "optionC": "Single",
+    "optionD": "Multiple",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 40,
+    "questionText": "What is the output? class Base { public: Base() { cout << 'Base '; } }; class Derived : public Base { public: Derived() { cout << 'Derived'; } }; int main() { Derived obj; }",
+    "optionA": "Derived Base",
+    "optionB": "Derived",
+    "optionC": "Base",
+    "optionD": "Base Derived",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 41,
+    "questionText": "Which concept allows using the same function name but different parameter lists?",
+    "optionA": "Abstraction",
+    "optionB": "Overloading",
+    "optionC": "Encapsulation",
+    "optionD": "Overriding",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 42,
+    "questionText": "Which OOP principle hides internal details and shows only essential features?",
+    "optionA": "Abstraction",
+    "optionB": "Polymorphism",
+    "optionC": "Encapsulation",
+    "optionD": "Inheritance",
+    "correctAnswer": "A"
+  },
+  {
+    "id": 43,
+    "questionText": "In C++, a pure virtual function is declared by:",
+    "optionA": "virtual void f();",
+    "optionB": "virtual void f() = 0;",
+    "optionC": "pure virtual void f();",
+    "optionD": "abstract void f();",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 44,
+    "questionText": "Which type of constructor initializes objects with values provided at runtime?",
+    "optionA": "Copy constructor",
+    "optionB": "Virtual constructor",
+    "optionC": "Default constructor",
+    "optionD": "Parameterized constructor",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 45,
+    "questionText": "What will happen? class A { public: virtual void show() { cout << 'A'; } }; class B : public A { public: void show() { cout << 'B'; } }; int main() { A *ptr = new B(); ptr->show(); }",
+    "optionA": "A",
+    "optionB": "Compilation error",
+    "optionC": "Undefined",
+    "optionD": "B",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 46,
+    "questionText": "Which keyword prevents a base class function from being overridden?",
+    "optionA": "const",
+    "optionB": "final",
+    "optionC": "static",
+    "optionD": "override",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 47,
+    "questionText": "Which constructor is called when an object is initialized from another object of the same class?",
+    "optionA": "Default constructor",
+    "optionB": "Parameterized constructor",
+    "optionC": "Friend constructor",
+    "optionD": "Copy constructor",
+    "correctAnswer": "D"
+  },
+  {
+    "id": 48,
+    "questionText": "In C++, friend functions:",
+    "optionA": "Both A and B",
+    "optionB": "Are members of a class",
+    "optionC": "Can access private data of the class",
+    "optionD": "B only",
+    "correctAnswer": "C"
+  },
+  {
+    "id": 49,
+    "questionText": "Which of these best describes polymorphism?",
+    "optionA": "One name, many forms",
+    "optionB": "All of the above",
+    "optionC": "One function behaving differently for different objects",
+    "optionD": "Compile-time and run-time behavior changes",
+    "correctAnswer": "B"
+  },
+  {
+    "id": 50,
+    "questionText": "Destructor in C++:",
+    "optionA": "Can be overloaded",
+    "optionB": "Is called explicitly only",
+    "optionC": "Must have parameters",
+    "optionD": "Has the same name as the class prefixed with ~",
+    "correctAnswer": "D"
+  }
+]

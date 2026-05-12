@@ -92,6 +92,8 @@ package com.StudentGrader.Controller;
 
 import java.util.Optional;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -109,6 +111,8 @@ import jakarta.mail.MessagingException;
 @RestController
 @CrossOrigin(origins = "*")
 public class StudentContoller {
+	
+	Logger log =LoggerFactory.getLogger(StudentContoller.class);
 
     @Autowired
     private Studentrepo studentRepository;
@@ -127,8 +131,9 @@ public class StudentContoller {
 
         // Send welcome email after signup
         mailSenderService.sendWelcomeEmail(savedStudent.getEmail(), savedStudent.getName());
-
-        System.out.println(student.getEmail() + " registered");
+         
+        log.info(student.getEmail() + " registered");
+        //System.out.println(student.getEmail() + " registered");
         return ResponseEntity.ok(savedStudent);
     }
 

@@ -156,6 +156,7 @@
 
 package com.StudentGrader.Controller;
 
+import java.io.IOException;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -172,7 +173,7 @@ import com.StudentGrader.Repository.Studentanswerrepo;
 import com.StudentGrader.Repository.Studentrepo;
 import com.StudentGrader.Service.MailSenderService;
 
-import jakarta.mail.MessagingException;
+
 
 @RestController
 @RequestMapping("/quiz")
@@ -214,7 +215,7 @@ public class QuizController {
     }
 
     @PostMapping("/submit")
-    public int submitQuiz(@RequestParam String email, @RequestBody List<StudentAnswer> answers) throws MessagingException, QuizAlreadySubmittedException {
+    public int submitQuiz(@RequestParam String email, @RequestBody List<StudentAnswer> answers) throws  QuizAlreadySubmittedException, IOException {
         Student student = studentRepo.findByEmail(email)
                 .orElseThrow(() -> new RuntimeException("Student not found"));
 

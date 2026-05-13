@@ -90,6 +90,7 @@
 
 package com.StudentGrader.Controller;
 
+import java.io.IOException;
 import java.util.Optional;
 
 import org.slf4j.Logger;
@@ -105,7 +106,7 @@ import com.StudentGrader.Entity.Student;
 import com.StudentGrader.Repository.Studentrepo;
 import com.StudentGrader.Service.MailSenderService;
 
-import jakarta.mail.MessagingException;
+
 
 @RequestMapping("/students")
 @RestController
@@ -121,7 +122,7 @@ public class StudentContoller {
     private MailSenderService mailSenderService;
 
     @PostMapping("/signup")
-    public ResponseEntity<?> signup(@RequestBody Student student) throws MessagingException {
+    public ResponseEntity<?> signup(@RequestBody Student student) throws IOException  {
         Optional<Student> existingStudent = studentRepository.findByEmail(student.getEmail());
         if (existingStudent.isPresent()) {
             return ResponseEntity.status(HttpStatus.CONFLICT)
